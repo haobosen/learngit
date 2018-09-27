@@ -6,6 +6,9 @@ git.prototype = {
 	},
 	a: function(){
 		console.log(123)
+	},
+	b: function(){
+		console.log(456)
 	}
 }
 
