@@ -17,7 +17,7 @@ git.prototype = {
 		console.log(112222221)
 	},
 	e: function(){
-		console.log(99999)
+		console.log(99999555)
 	}
 }
 
