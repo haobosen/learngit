@@ -15,6 +15,9 @@ git.prototype = {
 	},
 	d: function(){
 		console.log(112222221)
+	},
+	e: function(){
+		console.log(99999)
 	}
 }
 
