@@ -20,7 +20,7 @@ git.prototype = {
 		console.log(999995552)
 	},
 	aaa: function(){
-		console.log(12312)
+		console.log(12312123123)
 	}
 }
 
